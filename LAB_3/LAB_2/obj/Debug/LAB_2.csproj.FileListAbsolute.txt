@@ -1,0 +1,14 @@
+C:\Users\Artjoms\source\repos\LAB_2\LAB_2\obj\Debug\LAB_2.csprojResolveAssemblyReference.cache
+C:\Users\Artjoms\source\repos\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.CoreCompileInputs.cache
+C:\Users\Artjoms\source\repos\LAB_2\LAB_2\bin\Debug\LAB_2.exe.config
+C:\Users\Artjoms\source\repos\LAB_2\LAB_2\bin\Debug\LAB_2.exe
+C:\Users\Artjoms\source\repos\LAB_2\LAB_2\bin\Debug\LAB_2.pdb
+C:\Users\Artjoms\source\repos\LAB_2\LAB_2\obj\Debug\LAB_2.exe
+C:\Users\Artjoms\source\repos\LAB_2\LAB_2\obj\Debug\LAB_2.pdb
+E:\Univer\BKIT\LAB_3\LAB_2\bin\Debug\LAB_2.exe.config
+E:\Univer\BKIT\LAB_3\LAB_2\bin\Debug\LAB_2.exe
+E:\Univer\BKIT\LAB_3\LAB_2\bin\Debug\LAB_2.pdb
+E:\Univer\BKIT\LAB_3\LAB_2\obj\Debug\LAB_2.csprojResolveAssemblyReference.cache
+E:\Univer\BKIT\LAB_3\LAB_2\obj\Debug\LAB_2.csproj.CoreCompileInputs.cache
+E:\Univer\BKIT\LAB_3\LAB_2\obj\Debug\LAB_2.exe
+E:\Univer\BKIT\LAB_3\LAB_2\obj\Debug\LAB_2.pdb
